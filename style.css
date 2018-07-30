@@ -22,15 +22,6 @@ button {
 h1{
     font-size: 75px;
 }
-.container{
-    background-color: rgba(255, 255, 255, 0.733);
-    text-align: center;
-    width:100%;
-    vertical-align: middle;
-    position: absolute;
-    top: 50%;
-    margin-top:-230px;
-    }
 h2{
     font-size: 20px;
 }
