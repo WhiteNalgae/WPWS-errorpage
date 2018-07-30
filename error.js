@@ -1,6 +1,6 @@
 function wpws(){
-    location.href="https://wpws.kr/"
+    location.href="RedirectPage Link [Left]"
 }
 function errors(){
-    location.href="https://wpws.kr/error/"
+    location.href="RedirectPage Link [Right]"
 }
