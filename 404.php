@@ -23,10 +23,7 @@ switch($rand){
     <head>
          <meta http-equiv="X-UA-Compatible" content="IE=edge">
          <meta name="viewport" content="width=device-width, user-scalable=no">
-         <meta property="og:description" content="WPWS : E404">
-         <meta property="og:title" content="WPWS : E404">
-         <meta property="og:type" content="website">
-         <title>WPWS : 404E</title>
+         <title>PageTitle</title>
          <link rel="stylesheet" href="./style.css">
     </head>
     <body>
@@ -37,8 +34,8 @@ switch($rand){
             <p>- 서버에서 해당 경로를 찾을 수 없어요.</p>
             <p>- 관리자에게 문의하거나 아래 버튼으로 이동해요.</p>
             <br />
-            <button type="button" onclick="wpws();">WPWS로 돌아가기</button>
-            <button type="button" onclick="othere();">다른 에러페이지 보기</button>
+            <button type="button" onclick="wpws();">Link [1]</button>
+            <button type="button" onclick="othere();">Link [2]</button>
             <br />
             <br />
         </div>
