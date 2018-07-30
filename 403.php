@@ -35,8 +35,8 @@ switch($rand){
             <p>- 해당 경로에 접근 할 권한이 없어요.</p>
             <p>- 관리자에게 문의하거나 아래 버튼으로 이동해요.</p>
             <br />
-            <button type="button" onclick="wpws();">WPWS로 돌아가기</button>
-            <button type="button" onclick="othere();">다른 에러페이지 보기</button>
+            <button type="button" onclick="wpws();">Link [1]</button>
+            <button type="button" onclick="othere();">Link [2]</button>
             <br />
             <br />
         </div>
