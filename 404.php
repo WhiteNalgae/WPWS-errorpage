@@ -27,7 +27,7 @@ switch($rand){
          <meta property="og:title" content="WPWS : E404">
          <meta property="og:type" content="website">
          <title>WPWS : 404E</title>
-         <link rel="stylesheet" href="//wpws.kr/error/style.min.css">
+         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
         <div id="center" class="container">
@@ -42,6 +42,6 @@ switch($rand){
             <br />
             <br />
         </div>
-        <script src="//wpws.kr/error/error.min.js"></script>
+        <script src="./error.js"></script>
     </body>
 </html>
