@@ -21,10 +21,7 @@ switch($rand){
     <head>
          <meta http-equiv="X-UA-Compatible" content="IE=edge">
          <meta name="viewport" content="width=device-width, user-scalable=no">
-         <meta property="og:description" content="WPWS : E403">
-         <meta property="og:title" content="WPWS : E403">
-         <meta property="og:type" content="website">
-         <title>WPWS : 404E</title>
+         <title>Page Title</title>
          <link rel="stylesheet" href="./style.css">
     </head>
     <body>
